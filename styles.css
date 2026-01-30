@@ -1,0 +1,23 @@
+/* Feuille de styles CSS */
+body {
+    background-color: #d2dfdf;
+}
+
+.effecto {
+    background-color: #9b9ea3;
+
+}
+
+.effecto1 {
+    background-color: #d2dfdf;
+}
+
+h2 {
+    color: #0a0d6c;
+    border-left: 4px solid #292999;
+    padding: 5px;
+}
+h3{color:#e80b5c;
+border-left: 4px solid #292999;
+padding:5px;
+}
